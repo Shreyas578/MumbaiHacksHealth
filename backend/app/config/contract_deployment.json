@@ -1,0 +1,17 @@
+{
+  "network": "somnia",
+  "chainId": 50312,
+  "contractAddress": "0xc31Fd2D4D7dED1dDFD0814B5dB58a5a67A446849",
+  "owner": "0xe7b30321edC5311Ddf589da2a01cD381Ba6Ac42D",
+  "deployer": "0xe7b30321edC5311Ddf589da2a01cD381Ba6Ac42D",
+  "deploymentTxHash": "0x6a42adfe1b685b70f76ed4e198df79b96968e85433a3ac996b40da54efb7b04e",
+  "blockNumber": 240885614,
+  "timestamp": "2025-11-28T22:06:06.818Z",
+  "compiler": {
+    "solidity": "0.8.20",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    }
+  }
+}

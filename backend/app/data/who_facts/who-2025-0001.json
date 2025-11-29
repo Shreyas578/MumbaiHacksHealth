@@ -1,0 +1,31 @@
+{
+    "id": "who-2025-0001",
+    "claim_text": "Drinking hot water or warm beverages can cure or prevent COVID-19 infection",
+    "verdict": "false",
+    "severity": "high",
+    "summary": "Hot water does not cure or prevent COVID-19. While staying hydrated is important for overall health, there is no scientific evidence that drinking hot water kills the SARS-CoV-2 virus. The virus spreads primarily through respiratory droplets and contact with contaminated surfaces. Proven preventive measures include vaccination, wearing masks, hand hygiene, and physical distancing.",
+    "evidence": [
+        {
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+            "title": "WHO COVID-19 Myth Busters",
+            "checksum": "a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456",
+            "accessed_at": "2025-01-15T10:30:00Z"
+        },
+        {
+            "url": "https://www.who.int/publications/i/item/WHO-2019-nCoV-IPC-2023.1",
+            "title": "Infection prevention and control in the context of COVID-19",
+            "checksum": "b2c3d4e5f67890123456789012345678901abcdef234567890abcdef1234567",
+            "accessed_at": "2025-01-15T10:45:00Z"
+        }
+    ],
+    "topics": [
+        "covid-19",
+        "infectious-diseases",
+        "myth-debunking",
+        "prevention"
+    ],
+    "issued_at": "2025-01-15T12:00:00Z",
+    "last_reviewed_at": "2025-01-15T12:00:00Z",
+    "version": 1,
+    "status": "active"
+}
